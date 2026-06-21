@@ -1,4 +1,5 @@
-# ec_toolsbox
+# ec_toolsbox_new
+Il faut installer Node.js et npm pour ce projet.
 
 ## Project setup
 ```
@@ -7,6 +8,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+export NODE_OPTIONS=--openssl-legacy-provider
 npm run serve
 ```
 
